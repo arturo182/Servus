@@ -1,0 +1,13 @@
+Makefile*
+/*.pro.user
+/bin/nginx/*
+/bin/php/*
+/bin/mysql/*
+/bin/mongodb/*
+/bin/*.exe
+/bin/*.json
+/debug/*
+/release/*
+/*.Debug
+/*.Release
+/ui_*.h
