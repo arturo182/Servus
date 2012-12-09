@@ -9,4 +9,4 @@ Creating profiles
 
 Credits
 ---
-Main icon by [famfamfam.com](http://famfamfam.com).
+Icons by [famfamfam.com](http://famfamfam.com).
